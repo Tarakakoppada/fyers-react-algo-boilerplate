@@ -1,0 +1,22 @@
+# Environments
+venvv/
+venv/
+env/
+
+# PyInstaller & Python Caches
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Database & Secrets
+*.sqlite
+*.db
+.env
+keys.json
+
+# Frontend
+node_modules/
+.next/
+out/
